@@ -19,3 +19,9 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.nanum-gothic-regular {
+  font-family: "Nanum Gothic", serif;
+  font-weight: 400;
+  font-style: normal;
+}
